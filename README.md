@@ -6,11 +6,10 @@ http://www.youtube.com/datadansandler
 This repository contains the commands and links to code that support a YouTube Series on How to Stream Social Media to Hadoop.  Each section corresponds to a video in the series.  Assumes you have working knowledge of the technical components.
 
 Video 2: Deploy AWS EC2 Instance
-
-http://www.youtube.com/watch?v=o0D6vKKuin4&list=PLPrplWpTfYTPU2topP8hJwpekrFj4wF8G&index=2
-
 ---------------
 This is part 2 of a series that provides a guide for setting up CDH4 Hadoop in the Amazon cloud, and streaming social media to the environment. Here we deploy the AWS EC2 RHEL 6.3 64-bit M1.small instance.
+
+http://www.youtube.com/watch?v=o0D6vKKuin4&list=PLPrplWpTfYTPU2topP8hJwpekrFj4wF8G&index=2
 
 1) Red Hat 6.3, M1 Large recommended, for this exercise will Make it small
 
