@@ -9,7 +9,7 @@ Video 2: Deploy AWS EC2 Instance
 ---------------
 This is part 2 of a series that provides a guide for setting up CDH4 Hadoop in the Amazon cloud, and streaming social media to the environment. Here we deploy the AWS EC2 RHEL 6.3 64-bit M1.small instance.
 
-http://www.youtube.com/watch?v=o0D6vKKuin4&list=PLPrplWpTfYTPU2topP8hJwpekrFj4wF8G&index=2
+http://youtu.be/o0D6vKKuin4
 
 1) Red Hat 6.3, M1 Large recommended, for this exercise will Make it small
 
@@ -71,7 +71,7 @@ Video 3: Install Cloudera CDH4
 ---------------
 This is part 3 of a series that provides a guide for setting up CDH4 Hadoop in the Amazon cloud, and streaming social media to the environment. In this part, we install Cloudera in the Amazon Cloud.
 
-http://www.youtube.com/watch?v=74yl-LekBMQ&list=PLPrplWpTfYTPU2topP8hJwpekrFj4wF8G&index=3
+http://youtu.be/74yl-LekBMQ
 
 A. mkdir /tmp/cdh_download; cd /tmp/cdh_download
 
@@ -102,7 +102,7 @@ Video 4: Register Twitter App
 ---------------
 This is part 4 of a series that provides a guide for setting up CDH4 Hadoop in the Amazon cloud, and streaming social media to the environment. Here we register an app on Twitter.
 
-http://www.youtube.com/watch?v=R6yVAKh21YE&list=PLPrplWpTfYTPU2topP8hJwpekrFj4wF8G&index=4
+http://youtu.be/R6yVAKh21YE
 
 No special instructions other than those posted in the video.
 
@@ -110,7 +110,7 @@ Video 5: Configure Flume
 ---------------
 This is part 5 of a series that provides a guide for setting up CDH4 Hadoop in the Amazon cloud, and streaming social media to the environment. Here we configure Flume to stream Twitter to HDFS.
 
-http://www.youtube.com/watch?v=rgtRj0viQ1E&list=PLPrplWpTfYTPU2topP8hJwpekrFj4wF8G&index=5
+http://youtu.be/rgtRj0viQ1E
 
 1) Download Twitter  Project from Git Hub
 
@@ -142,7 +142,7 @@ Video 6: Install MySQL and Configure Hive
 ---------------
 This is part 6 of a series that provides a guide for setting up CDH4 Hadoop in the Amazon cloud, and streaming social media to the environment. Here we install MySQL and configure Hive.
 
-http://www.youtube.com/watch?v=gam2xJyTOcQ&list=PLPrplWpTfYTPU2topP8hJwpekrFj4wF8G&index=6
+http://youtu.be/gam2xJyTOcQ
 
 1) cd /usr/lib/hadoop
 
@@ -240,7 +240,7 @@ Video 7: Apache Log File format and rotation
 
 This is part 7 of a series that provides a guide for setting up CDH4 Hadoop in the Amazon cloud, and streaming social media to the environment. Here we will setup and configure the Oozie workflow.
 
-http://www.youtube.com/watch?v=QX_7k3Y4Sj0&list=PLPrplWpTfYTPU2topP8hJwpekrFj4wF8G&index=7
+http://youtu.be/QX_7k3Y4Sj0
 
 
 1) cp /usr/lib/hive/lib/mysql*.jar /usr/lib/oozie/libext
@@ -331,7 +331,7 @@ Video 8: Real-time Access to Tweets
 ---------------
 This is part 8 of a series that provides a guide for setting up CDH4 Hadoop in the Amazon cloud, and streaming social media to the environment. Now we remove the wait condition from the Oozie workflow and avoid contention with the Flume temp files.
 
-http://www.youtube.com/watch?v=5lJ02Xn7xOQ&list=PLPrplWpTfYTPU2topP8hJwpekrFj4wF8G&index=8
+http://youtu.be/5lJ02Xn7xOQ
 
 See my blog for the steps
 
@@ -341,7 +341,7 @@ Video 9: ODBC Connectivity to Hive and Basic HQL
 ---------------
 This is part 9 of a series that provides a guide for setting up CDH4 Hadoop in the Amazon cloud, and streaming social media to the environment. Here we setup ODBC connections and run basic queries.
 
-http://www.youtube.com/watch?v=zCxSHZn6mq4&list=PLPrplWpTfYTPU2topP8hJwpekrFj4wF8G&index=9
+http://youtu.be/zCxSHZn6mq4
 
 Please use the video to setup the connection.
 
@@ -353,7 +353,7 @@ Video 10: Streaming Facebook & Sentiment Analysis
 ---------------
 This is part 10 of a series that provides a guide for setting up CDH4 Hadoop in the Amazon cloud, and streaming social media to the environment. In the final installment, we show how to stream Facebook to Flume, how to perform sentiment analysis, and some final thoughts
 
-http://www.youtube.com/playlist?list=PLPrplWpTfYTPU2topP8hJwpekrFj4wF8G
+http://youtu.be/YTHs2c4R7R4
 
 See my GitHub repository for the Facebook code ans intructions.
 
