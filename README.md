@@ -38,7 +38,7 @@ c. Get the Access tokens
 
 	B. SSH to environment
 
-		A. ssh root@ec2-<YOUR_IP_ADDR>.compute-1.amazonaws.com  -i dans_hadoop.pem 
+		A. ssh root@ec2-<YOUR_IP_ADDR>.compute-1.amazonaws.com  -i <your_PEM_FILE>.pem 
 
 		B. Firewall config
 
@@ -188,7 +188,7 @@ mysql> CREATE USER 'hive'@'myhost' IDENTIFIED BY 'mypassword';
 
 ...
 
-mysql> GRANT ALL on metastore.* TO hive@localhost IDENTIFIED BY 'mypassword';
+mysql> GRANT ALL on metastore.* TO hive@localhost IDENTIFIED BY '<your_password>';
 
 	MAKE SURE THIS IS DONE at ROOT MYSQL LEVEL, not JUST METSATORE
 
