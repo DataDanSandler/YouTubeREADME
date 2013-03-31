@@ -98,6 +98,13 @@ F. Install Maven
 
    2) tar xvf apache-maven-3.0.4-bin.tar.gz
 
+Video 4: Register Twitter App
+---------------
+This is part 4 of a series that provides a guide for setting up CDH4 Hadoop in the Amazon cloud, and streaming social media to the environment. Here we register an app on Twitter.
+
+http://www.youtube.com/watch?v=R6yVAKh21YE&list=PLPrplWpTfYTPU2topP8hJwpekrFj4wF8G&index=4
+
+No special instructions other than those posted in the video.
 
 Video 5: Configure Flume
 ---------------
