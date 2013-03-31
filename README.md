@@ -1,9 +1,9 @@
-Intructions that support my YouTube Series on How to Stream Social Media to Hadoop
-
-http://www.youtube.com/datadansandler
+Intructions For my YouTube Series on How to Stream Social Media to Hadoop
 ===================
 
 This repository contains the commands and links to code that support a YouTube Series on How to Stream Social Media to Hadoop.  Each section corresponds to a video in the series.  Assumes you have working knowledge of the technical components.
+
+http://www.youtube.com/datadansandler
 
 Video 2: Deploy AWS EC2 Instance
 ---------------
